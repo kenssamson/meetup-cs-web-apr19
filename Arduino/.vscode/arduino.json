@@ -1,0 +1,5 @@
+{
+    "board": "adafruit:avr:feather32u4",
+    "sketch": "BLE-Black-Robot-Rover\\BLE-Black-Robot-Rover.ino",
+    "port": "COM3"
+}
